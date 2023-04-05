@@ -1,25 +1,8 @@
-body {
-  margin: 0px;
-  font-family: 'Roboto', sans-serif;
-}
-
-p{
-  margin: 0;
-}
-.search-bar {
-  display: block;
-  margin-bottom: 10px;
-}
-
 .video-grid{
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   column-gap: 16px;
   row-gap: 40px;
-}
-
-.video-preview {
- 
 }
 
 .thumbnail {
