@@ -2,7 +2,9 @@ body {
   margin: 0px;
   font-family: 'Roboto', sans-serif;
   padding-top: 80px;
-  padding-left: 80px;
+  padding-right: 24px;
+  padding-left: 96px;
+  background: rgb(248, 248, 248);
 }
 
 p{
